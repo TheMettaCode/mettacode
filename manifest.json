@@ -1,6 +1,6 @@
 {
-    "name": "mettacode_dev_website",
-    "short_name": "mettacode_dev_website",
+    "name": "MettaCode",
+    "short_name": "MettaCode",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
